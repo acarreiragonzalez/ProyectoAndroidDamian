@@ -16,8 +16,9 @@ Esta aplicación consiste en un juego en 2D con escenario fijo, en el que se gen
 
 ##Estructura
 
-Consiste en 8 clases funcionales y una interfaz primaria en XML que nos hará de pantalla de inicio,las clases se dividen en dos controladoras
-*De tiempo:de los duendes y del tiempo de juego.
-*Creacion de duendes:Crea y controla los duendes así como comodines y penalizaciones
-*Reglas de juego y vision:Controla las funciones del juego y establece el escenario.
+Consiste en 8 clases funcionales y una interfaz primaria en XML que nos hará de pantalla de inicio,las clases se dividen en:
+
+* De tiempo:de los duendes y del tiempo de juego.
+* Creacion de duendes:Crea y controla los duendes así como comodines y penalizaciones
+* Reglas de juego y vision:Controla las funciones del juego y establece el escenario.
 
