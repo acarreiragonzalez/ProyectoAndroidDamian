@@ -7,9 +7,9 @@ Esta aplicación consiste en un juego en 2D con escenario fijo, en el que se gen
 
 ##Principales herramientas usadas
 
-*Librerias de canvas
-*Librerias de Android.Drawn.Bitmap
-*Librerias de Android.Time.*
+* Librerias de canvas
+* Librerias de Android.Drawn.Bitmap
+* Librerias de Android.Time.*
 *Clase GameView
 
 
